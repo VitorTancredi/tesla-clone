@@ -50,7 +50,7 @@ function Home() {
              <Section 
                 title="Accessories"
                 description="8 "
-                leftBtnText="Order now"
+                leftBtnText="Shop now"
                 backgroundImg="accessories.jpg"
             />
         </Container>
